@@ -1,0 +1,1 @@
+let addToCart = document.querySelector('.products__hover-button');
